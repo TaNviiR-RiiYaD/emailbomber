@@ -5,5 +5,5 @@ This Tools for email bombing
   <img
 src="https://img.shields.io/badge/Email-Bomber-brightgreen">
   <img
-src="https://img.shields.io/badge/Developed-by-brightgreen">
+src="https://img.shields.io/badge/Developed%20by-TaNviiR--RiiYaD-orange">
 </p>
